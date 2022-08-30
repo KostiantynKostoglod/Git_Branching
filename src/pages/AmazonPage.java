@@ -8,5 +8,6 @@ public class AmazonPage {
     // html for search button
 
         // html for deal page
+    // 1 commit ahead of master branch
 
 }
